@@ -20,7 +20,18 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
 * ☁️ **Automatización & DevOps:** Diseño de playbooks modulares en **Ansible** para aprovisionar servidores y gateways, eliminando tareas manuales y configurando pipelines de **GitLab CI/CD** y **GitHub Actions**.
 * 🔄 **Streaming & Datos en Tiempo Real:** Implementación de sincronización de datos con **Apache Kafka**, **Debezium CDC** y réplicas de **MongoDB** para asegurar disponibilidad continua.
 * 📡 **Hardware e IoT:** Configuración, despliegue y validación de más de **115 gateways de comunicación** y placas **Orange Pi**, optimizando el uso de memoria RAM para evitar caídas en producción.
-* 📈 **Métricas Reales:** Más de **3,630 horas** de desarrollo y soporte registradas en YouTrack con un **87% de éxito** en resolución de tareas técnicas.
+
+---
+
+### 📊 Indicadores de Rendimiento & Métricas de Producción
+
+| Indicador Clave | Métrica Registrada | Alcance e Impacto Técnico |
+| :--- | :---: | :--- |
+| ⏱️ **Horas de Desarrollo** | **+3,630 hrs** | Registro formal en YouTrack enfocado en resolución de incidencias y código |
+| 🎯 **Tasa de Resolución** | **87% de éxito** | 307 tareas de soporte y arquitectura completadas satisfactoriamente |
+| 📡 **Gateways en Producción** | **+115 unidades** | Configuración, validación y soporte de nodos IoT en campo |
+| 🛡️ **Estabilidad de Nodos** | **0 caídas por RAM** | Identificación y solución definitiva de fugas de memoria en Orange Pi |
+| ⚡ **Automatización de Despliegues** | **Ansible & CI/CD** | Reducción de horas a minutos en el aprovisionamiento de estaciones base |
 
 ---
 
@@ -92,15 +103,6 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Métricas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgloayza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgloayza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" width="48%" />
-</p>
 
 ---
 
