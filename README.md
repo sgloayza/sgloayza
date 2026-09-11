@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sandra Loayza 👋
+# Sandra Loayza
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Sandra%20Loayza&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%26%20Backend%20%7C%20IoT%20Systems&descFontSize=19&descAlignY=60&descAlign=50" alt="Sandra Loayza" width="100%" />
@@ -13,9 +13,9 @@
 
 ---
 
-### 🚀 Sobre Mí
+### Perfil Profesional
 
-Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaquil, Ecuador). Trabajo como **Ingeniera de Software y DevOps en SIEMAV**, donde me enfoco en crear servicios backend y automatizar la infraestructura que conecta aplicaciones con dispositivos físicos en el campo.
+Ingeniera en Ciencias Computacionales graduada de la **ESPOL** (Guayaquil, Ecuador). Actualmente me desempeño como **Ingeniera de Software y DevOps en SIEMAV**, especializada en el desarrollo de servicios backend, automatización de infraestructura como código y despliegue de soluciones para sistemas de telemetría y hardware en campo.
 
 * ⚙️ **Backend & Microservicios:** Desarrollo de servicios asíncronos en **Python (FastAPI)**, diseño de APIs REST y arquitecturas orientadas a eventos.
 * ☁️ **Automatización & DevOps:** Diseño de playbooks modulares en **Ansible** para aprovisionar servidores y gateways, eliminando tareas manuales y configurando pipelines de **GitLab CI/CD** y **GitHub Actions**.
@@ -25,7 +25,7 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <table align="center" width="100%">
   <tr>
@@ -79,7 +79,7 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
 
 ---
 
-### 🌟 Proyecto Destacado
+### Proyectos Destacados
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
 
 ---
 
-### 📈 Métricas de GitHub
+### Métricas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgloayza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub" width="48%" />
@@ -105,7 +105,7 @@ Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaqui
 
 ---
 
-### 📬 Conectemos
+### Contacto y Enlaces
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sgloayza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
