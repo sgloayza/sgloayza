@@ -1,10 +1,7 @@
 # ¡Hola! Soy Sandra Loayza 👋
 
-<p align="center">
-  <a href="https://sgloayza.github.io/portfolio-web/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06B6D4,8B5CF6&height=180&section=header&text=Sandra%20Loayza&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%26%20Backend%20%7C%20IoT%20Systems&descFontSize=19&descAlignY=60&descAlign=50" alt="Sandra Loayza - Portafolio Web" width="100%" />
-  </a>
-</p>
+> **Ingeniera en Ciencias Computacionales (ESPOL) · Software Engineer · DevOps & Backend · IoT Systems**  
+> Guayaquil, Ecuador 🇪🇨
 
 <p align="center">
   <a href="https://sgloayza.github.io/portfolio-web/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visitar_Sitio-06B6D4?style=for-the-badge" alt="Portafolio" /></a>
