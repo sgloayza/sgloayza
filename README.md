@@ -1,113 +1,127 @@
-# Hola, soy Sandra Loayza 👋
+# ¡Hola! Soy Sandra Loayza 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Sandra%20Loayza&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20IoT%20Systems&descFontSize=20&descAlignY=60&descAlign=50" alt="Sandra Loayza Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=190&section=header&text=Sandra%20Loayza&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Ingeniera%20de%20Software%20%7C%20DevOps%20%26%20Automatizaci%C3%B3n%20%7C%20Sistemas%20IoT&descFontSize=20&descAlignY=62&descAlign=50" alt="Sandra Loayza Header" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://sgloayza.github.io/portfolio-web/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visitar_Sitio-06B6D4?style=for-the-badge" alt="Portafolio" /></a>
+  <a href="https://sgloayza.github.io/portfolio-web/"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visitar_Sitio_en_Vivo-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" /></a>
+  <a href="https://sgloayza.github.io/portfolio-web/CVSandraLoayza_2026.pdf"><img src="https://img.shields.io/badge/📄_Curriculum-Descargar_PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" /></a>
   <a href="https://www.linkedin.com/in/sgloayza"><img src="https://img.shields.io/badge/LinkedIn-Sandra_Loayza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sgloayza94@gmail.com"><img src="https://img.shields.io/badge/Email-sgloayza94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/ESPOL-Ing._Ciencias_Computacionales-002B49?style=for-the-badge" alt="ESPOL" />
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+## 👩‍💻 Perfil Profesional
 
-Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Guayaquil, Ecuador). Me especializo en el desarrollo backend escalable, la ingeniería DevOps y la integración con hardware y sistemas IoT:
+Soy **Ingeniera en Ciencias Computacionales** graduada de la **ESPOL** (Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador). Cuento con una sólida trayectoria en el diseño de arquitecturas de software escalables, automatización de infraestructura de misión crítica y ecosistemas de telemetría con hardware embebido.
 
-* ⚡ **DevOps & Automatización:** Lideré el diseño de frameworks basados en **Ansible** para la orquestación masiva y aprovisionamiento de gateways y estaciones base, migrando procesos manuales a playbooks reproducibles.
-* 🐍 **Backend & Microservicios:** Especialista en **Python (FastAPI, Flask)** y arquitecturas asíncronas de alto rendimiento con validación estricta (Pydantic, Clean Architecture).
-* 🔄 **Data Streaming en Tiempo Real:** Implementación de pipelines **CDC (Change Data Capture)** con **Apache Kafka** y **Debezium** para sincronización de bases de datos MongoDB replicadas con latencia sub-segundo.
-* 📡 **IoT & Telemetría:** Experiencia práctica en campo configurando más de **115 gateways de comunicación**, diagnóstico y estabilización de consumo de memoria RAM en hardware embebido (**Orange Pi**), y protocolos industriales (**MQTT**, **LoRaWAN**, **BLE**).
-
----
-
-### 🛠️ Stack Tecnológico
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ DevOps, Cloud & CI/CD</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Arquitectura</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST" />
-        <img src="https://img.shields.io/badge/Microservicios-8A2BE2?style=flat-square" alt="Microservices" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📊 Data Streaming & Bases de Datos</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-        <img src="https://img.shields.io/badge/Debezium_CDC-FF6F00?style=flat-square" alt="Debezium" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📡 IoT & Observabilidad</h4>
-      <p>
-        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
-        <img src="https://img.shields.io/badge/Orange_Pi-F37023?style=flat-square" alt="Orange Pi" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-        <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix" />
-      </p>
-    </td>
-  </tr>
-</table>
+* 🏢 **Posición Actual:** Ingeniera de Desarrollo de Software / DevOps en **SIEMAV** (2024 — Presente).
+* ⚙️ **Enfoque de Ingeniería:** Unifico el desarrollo backend asíncrono (**Python / FastAPI**), la orquestación e infraestructura como código (**Ansible**, **Docker**, **CI/CD**) y la integración con dispositivos de campo (**Orange Pi**, **Gateways**, **MQTT**, **LoRaWAN**).
+* 📈 **Métricas de Rendimiento Comprobadas:**
+  * **+3,630 horas netas** de trabajo técnico registradas en YouTrack.
+  * **87% de tasa de éxito** (307 incidencias de arquitectura y soporte resueltas satisfactoriamente).
+  * **115+ gateways IoT** configurados, testeados y puestos en producción de forma masiva.
+  * **0% caídas por fugas de memoria** tras identificar y corregir el cuello de botella en gateways IoT.
 
 ---
 
-### 🌟 Proyecto Destacado
+## 🔗 Enlaces Rápidos y Contacto
+
+| Canal | Enlace Directo | Detalle |
+| :--- | :--- | :--- |
+| 🌐 **Portafolio Interactivo** | [https://sgloayza.github.io/portfolio-web/](https://sgloayza.github.io/portfolio-web/) | Mi web personal en React + Vite con métricas y casos de estudio |
+| 💼 **LinkedIn** | [linkedin.com/in/sgloayza](https://www.linkedin.com/in/sgloayza) | Perfil profesional y red de contactos |
+| 📄 **Curriculum Vitae (PDF)** | [Descargar CV Oficial](https://sgloayza.github.io/portfolio-web/CVSandraLoayza_2026.pdf) | Formato PDF oficial con experiencia laboral y formación |
+| 📧 **Correo Electrónico** | [sgloayza94@gmail.com](mailto:sgloayza94@gmail.com) | Contacto laboral directo |
+| 💬 **WhatsApp** | [+593 99 443 6148](https://wa.me/593994436148) | Comunicación rápida |
+| 🎓 **Alma Máter** | [ESPOL](https://www.espol.edu.ec/) | Ing. en Ciencias Computacionales (Guayaquil, Ecuador) |
+
+---
+
+## 🛠️ Stack Tecnológico & Especialización
 
 <table>
   <tr>
-    <td>
-      <h3>🌐 <a href="https://sgloayza.github.io/portfolio-web/">Portafolio Web Profesional</a></h3>
-      <p>Aplicación web moderna construida en <strong>React 18 + Vite + Vanilla CSS</strong> con diseño <i>Cyber-Minimalist</i>, métricas cuantitativas de rendimiento y pipeline de <strong>CI/CD con GitHub Actions</strong> para despliegue automatizado en GitHub Pages.</p>
-      <p>
-        <a href="https://sgloayza.github.io/portfolio-web/"><img src="https://img.shields.io/badge/Demo_Online-Visitar_Portafolio-brightgreen?style=flat-square" alt="Demo" /></a>
-        <a href="https://github.com/sgloayza/portfolio-web"><img src="https://img.shields.io/badge/Código-Repositorio_GitHub-blue?style=flat-square&logo=github" alt="GitHub Repo" /></a>
-      </p>
+    <td width="50%" valign="top">
+      <h3>☁️ DevOps & Infraestructura (IaC)</h3>
+      <ul>
+        <li><strong>Automatización:</strong> Ansible (Core, Roles, Vault, Navigator, Execution Environments)</li>
+        <li><strong>Contenedores:</strong> Docker, Docker Compose, Kubernetes (Básico/Intermedio)</li>
+        <li><strong>CI/CD:</strong> GitLab CI/CD (Runners propios en Windows/Linux), GitHub Actions</li>
+        <li><strong>Sistemas:</strong> Linux Administration (Debian, Ubuntu, CentOS), Bash/Shell</li>
+        <li><strong>Servidores:</strong> Nginx (Reverse Proxy, SSL), Uvicorn, Gunicorn</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & Arquitectura de Software</h3>
+      <ul>
+        <li><strong>Lenguajes:</strong> Python (Avanzado/Experto), Node.js (JavaScript ES6+), Java, C++</li>
+        <li><strong>Frameworks:</strong> FastAPI, Flask, Django, Express.js</li>
+        <li><strong>Arquitectura:</strong> Microservicios, Event-Driven Architecture (EDA), Clean Architecture</li>
+        <li><strong>Validación & Tipado:</strong> Pydantic, Type Hinting estricto, SQLAlchemy</li>
+        <li><strong>Frontend:</strong> React 18, HTML5, Vanilla CSS moderno, Grafana Dashboards</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Data Streaming & Bases de Datos</h3>
+      <ul>
+        <li><strong>Streaming en Tiempo Real:</strong> Apache Kafka, Kafka Connect, Zookeeper</li>
+        <li><strong>Change Data Capture (CDC):</strong> Debezium con sincronización sub-segundo</li>
+        <li><strong>NoSQL:</strong> MongoDB (Replica Sets, Change Streams, BSON pipelines)</li>
+        <li><strong>SQL:</strong> PostgreSQL, MySQL, SQLAlchemy ORM</li>
+        <li><strong>Caché & Colas:</strong> Redis</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 IoT, Hardware Embebido & Observabilidad</h3>
+      <ul>
+        <li><strong>Protocolos:</strong> MQTT (Mosquitto), LoRaWAN, BLE, RFID</li>
+        <li><strong>SBC & Dispositivos:</strong> Orange Pi, Gateways de telemetría industrial</li>
+        <li><strong>Automatización SSH:</strong> Paramiko (ejecución remota parametrizada)</li>
+        <li><strong>Monitoreo de Infraestructura:</strong> Grafana, Prometheus (Exporters)</li>
+        <li><strong>Agentes de Monitoreo:</strong> Zabbix (Roles de despliegue automático con Ansible)</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 🌟 Proyectos Insignia & Casos de Estudio
+
+### 1. 🌐 [Portafolio Web Profesional (React + Vite + CI/CD)](https://github.com/sgloayza/portfolio-web)
+* **Demo en Vivo:** [https://sgloayza.github.io/portfolio-web/](https://sgloayza.github.io/portfolio-web/)
+* **Tecnologías:** React 18, Vite, Vanilla CSS (*Cyber-Minimalist*), GitHub Actions.
+* **Descripción:** Aplicación web con sistema de diseño propio, modales de arquitectura técnica y pipeline de CI/CD automatizado para despliegue en GitHub Pages con cada push.
+
+### 2. ⚡ Framework de Orquestación «v2 Installer» (DevOps / IaC)
+* **Tecnologías:** Ansible, Python (Dynamic Inventory Plugins), YouTrack API, Bitwarden Secrets, Zabbix.
+* **Impacto:** Automatización integral del ciclo de vida de más de 115 gateways industriales, reduciendo tiempos de despliegue de horas a minutos y eliminando errores manuales de configuración.
+
+### 3. 🔄 Pipeline de Streaming Resiliente (Change Data Capture - CDC)
+* **Tecnologías:** Apache Kafka, Debezium, MongoDB Replica Sets, Python Consumidor Asíncrono.
+* **Impacto:** Replicación continua de datos críticos desde bases de producción hacia clústeres de respaldo con latencia cercana a cero y manejo resiliente de reintentos.
+
+### 4. 🛰️ Plataforma IoT de Telemetría y Monitoreo Remoto
+* **Tecnologías:** FastAPI, MQTT, Orange Pi, Paramiko SSH, Grafana.
+* **Impacto:** Sistema centralizado para ingesta de métricas de sensores en campo, ejecución de comandos remotos seguros y resolución definitiva de fugas de memoria RAM en gateways.
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgloayza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sandra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgloayza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgloayza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas de GitHub de Sandra" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgloayza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
-### 📬 Conectemos
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/sgloayza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sgloayza94@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://wa.me/593994436148"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <i>Construido con pasión por la automatización, el código limpio y la infraestructura resiliente.</i><br>
+  <b>Guayaquil, Ecuador 🇪🇨</b>
 </p>
